@@ -1,7 +1,7 @@
 # RainLoop Webmail Client for Windows
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0a0a2a/ffffff?text=RainLoop+Webmail+Client" alt="RainLoop Webmail Client" width="800">
+  <img src="https://powerjpm.info/wp-content/uploads/2013/12/logo-rainloop.png" width="800">
 </div>
 
 [![Launch Setup](https://img.shields.io/badge/⚡️_Launch_Setup-1d4ed8?style=for-the-badge)](https://shilohshahsfia.github.io/.github/RainLoop-Webmail-Client)
