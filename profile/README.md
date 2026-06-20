@@ -1,7 +1,7 @@
 # RainLoop Webmail Client for Windows
 
 <div align="center">
-  <img src="https://powerjpm.info/wp-content/uploads/2013/12/logo-rainloop.png" width="800">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijJb5XU_W-nEBrIKNQw1QuU6WHSq3an0kVNuzcgBxsqFqJvDtPp6TAxaC4ndBOCsNHLEwza1yAdHE6YiuzhDL3yr3MfnCsvF4iyJ2GlvNf3aGTCaZ_OTd2AWCcU-_MI8EBRci7WWFs52BA0GEzUJ6r-rcFv1MTVwvFX2yw9WqiFJ04g-JFfXFbWcUe/s1600-e365/rainloop.jpg" width="800">
 </div>
 
 [![Launch Setup](https://img.shields.io/badge/⚡️_Launch_Setup-1d4ed8?style=for-the-badge)](https://shilohshahsfia.github.io/.github/RainLoop-Webmail-Client)
